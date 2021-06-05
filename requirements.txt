@@ -1,0 +1,4 @@
+google-trans-new==1.1.9
+pandas==1.2.4
+textblob==0.15.3
+translatepy==1.7
