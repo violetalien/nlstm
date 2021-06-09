@@ -8,10 +8,6 @@ class g_translator():
 
     def translate_df(self, column='openanswer'):
         off =  google_translator()  
- #       translated = []
- #       for i in self.text['openanswer']:
- #           tmp = off.translate(i, lang_tgt='en')
- #           translated.append(tmp)
 
         translated = [off.translate(i, lang_tgt='en') for i in self.text[column]]
         self.text['translation']=translated
