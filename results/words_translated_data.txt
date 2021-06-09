@@ -1,0 +1,21 @@
+Topic 1 Top Words:
+ 	 Highest Prob: chang, must, man-mad, world, global, emiss, time, earth, warm, year 
+ 	 FREX: global, warm, man-mad, earth, challeng, contamin, cycl, emiss, life, year 
+ 	 Lift: claim, dramat, previous, work, warmther, challeng, global, solv, contamin, variat 
+ 	 Score: chang, must, man-mad, world, time, global, year, serious, happen, warm 
+Topic 2 Top Words:
+ 	 Highest Prob: weather, natur, extrem, disast, temperatur, storm, flood, wind, futur, pollut 
+ 	 FREX: weather, extrem, disast, flood, storm, futur, condit, precipit, wind, temperatur 
+ 	 Lift: condit, drought, inferior, stronger, weather, disast, extrem, flood, destruct, next 
+ 	 Score: weather, extrem, disast, flood, storm, temperatur, wind, precipit, rainfal, natur 
+Topic 3 Top Words:
+ 	 Highest Prob: climat, think, much, can, someth, peopl, will, norway, countri, littl 
+ 	 FREX: done, make, can, money, also, countri, respons, take, care, oil 
+ 	 Lift: care, complic, done, far, hope, man, respons, say, societi, talk 
+ 	 Score: think, climat, someth, can, take, one, littl, import, peopl, environ 
+Topic 4 Top Words:
+ 	 Highest Prob: melt, ice, increas, sea, level, water, rise, rain, pole, warmer 
+ 	 FREX: melt, ice, sea, level, water, rise, pole, winter, polar, snow 
+ 	 Lift: cold, die, mass, north, stark, violent, ice, polar, rise, sea 
+ 	 Score: melt, ice, sea, level, water, pole, rise, rain, increas, polar 
+
