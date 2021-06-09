@@ -1,7 +1,7 @@
 # nlstm
 
 
-# translate the norwegian data
+## translate the norwegian data
 
 Requirements: python3
 
@@ -16,3 +16,16 @@ python3 translate.py --output venvtest2.csv --library 2
 deactivate
 ```
 
+
+
+## Replicate the results with different translation data:
+
+Requirements: RScript version>= 4.1.0
+
+Run
+
+```
+Rscript ncp-stm-replica.R -f data/translated_data.csv -o translated_data
+```
+
+If needed install libraries (uncomment code in `ncp-stm-replica.R` script 
