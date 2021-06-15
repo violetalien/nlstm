@@ -1,0 +1,184 @@
+Topic 1: sem, það, ekki, eru, hafa 
+ Topic 2: loftslagsbreytingar, mikið, hefur, verið, eitthvað 
+ Topic 3: við, til, fyrir, með, okkar 
+ Topic 4: meira, veður, extrem, hitastig, weather 
+
+
+
+Topic 1 Top Words:
+ 	 Highest Prob: með, loftslagsbreytingar, mikið, hugsa, held, mengun, loftslagið, tíma, mjög, áður 
+ 	 with, climate change, much, think, think, pollution, climate, time, very, before
+ 	 
+ 	 FREX: hnatthlýnun, loftslagið, ógnvekjandi, minni, loftslagi, mjög, skelfilegur, hugsa, vandamál, mikið 
+ 	 
+ 	 global warming, climate, scary, memory, climate, very, scary, thinking, problem, much
+ 	 
+ 	 Lift: litið, lengri, skelfilegur, warmther, hnatthlýnun, vona, ógnvekjandi, minni, þróun, veðurföt 
+ 	 looking, long, scary, warmther, global warming, hope, awesome, memory, evolution, weatherwear
+ 	 Score: loftslagsbreytingar, held, hugsa, mikið, loftslagið, mengun, með, mjög, hnatthlýnun, áður 
+ 	 
+ 	 climate change, think, think, a lot, climate, pollution, with, very, global warming, before
+ 	 
+Topic 2 Top Words:
+ 	 Highest Prob: meira, veður, extrem, hitastig, weather, flóð, náttúruhamfarir, bráðnar, rign, stormur 
+ 	 more, weather, extrem, temperature, weather, flood, natural disasters, melt, rain, storm
+ 	 FREX: veður, extrem, hitastig, weather, flóð, náttúruhamfarir, rign, stormur, ísbræðsla, hlýrri 
+ 	 weather, extrem, temperature, weather, flood, natural disasters, rain, storm, melting ice, warmer
+ 	 Lift: alþjóðlegt, áskorun, bráðnun, eyðileg, flóð, flood, hækkun, hærri, hitastig, ísbræðsla 
+ 	 global, challenge, melting, destructive, flood, flood, rise, higher, temperature, ice melt
+ 	 Score: extrem, weather, veður, hitastig, flóð, rign, stormur, vindur, melt, stormar 
+ 	 extreme, weather, weather, temperature, flood, ring, storm, wind, melt, storms
+ 	 
+Topic 3 Top Words:
+ 	 Highest Prob: sem, við, ekki, hefur, eru, verið, hafa, okkar, verður, ein 
+ 	 who, we, not, has, are, been, have, our, will, alone
+ 	 
+ 	 FREX: svo, getum, við, erum, sér, okkar, þeir, eru, gott, taka 
+ 	 so, can, we, are, see, our, they, are, good, take
+ 	 Lift: getum, hætta, heldur, löndin, mín, noreg, börnin, erum, jörðina, sig
+ 	 can, stop, but, the countries, my, norway, the children, we are, the earth, themselves
+ 	 
+ 	 Score: við, ekki, sem, eru, hefur, svo, hafa, verið, okkar, getum 
+ 	 we, not, who, are, have, so, have, been, our, can
+ 	 
+Topic 4 Top Words:
+ 	 Highest Prob: það, til, fyrir, gera, eitthvað, vera, vegna, eða, mun, alltaf 
+ 	 it, to, for, do, something, be, because, or, will, always
+ 	 FREX: mun, koma, alltaf, eða, fyrir, tilbúið, gera, eitthvað, mig, eftir 
+ 	 will, come, always, or, before, ready, do, something, me, after
+ 	 Lift: ómögulegt, pólitísk, tala, tilbúið, vísindamenn, kosti, minnsta, byggja, mun, tekur 
+ 	 impossible, political, talk, artificial, scientists, advantages, least, build, will, takes
+ 	 Score: það, gera, fyrir, eitthvað, til, alltaf, eða, mun, koma, draga 
+ 	 it, do, for, something, to, always, or, will, come, draw
+
+
+
+topics
+
+> thoughts1
+ [1] "Ég held að mikið sé að hugsa að það sé jákvætt að við horfum á tækifæri til að draga úr mengun sem hugsar að loftslagið hafi verið öðruvísi áður en það hefur gestgjafi í Svalbard osfrv. Ég held að loftslag og hitastig á jörðinni hafi hringrás sem er hvernig ég sé það og ég held að norska yfirvöldin hafi hringrás. Og stjórnmálamenn nota loftslag til með \"góðri ástæðu\" gætu vona að auka skatta og gjöld um stund var hlýnun jarðar sem var smart varir stjórnmálamanna en þegar það virtist ekki passa, varð það loftslagsbreytingar! "   
+ 
+ I think there is a lot of thinking that it is positive that we are looking at opportunities to reduce pollution that think the climate was different before it has a host in Svalbard and so on. I think the climate and temperature of the earth have a cycle which is how I see it and I think the Norwegian authorities have a cycle. And politicians use climate for a "good reason" could hope to increase taxes and fees for a while was global warming that was fashionable lips of politicians but when it did not seem to fit, it became climate change!
+                                                                                                                         
+ [2] "Mikið mengun vegna stóra bílastæði ætti að fá miklu betri innviði og eyða miklu meiri peningum á járnbrautarbúnaði í útjaðri helstu borgum affordable 24 klukkustunda gjöldum með betri opinberum / sveitarfélögum samskiptum (Subway sporvagn og strætó) þannig að við gæti fengið minni bíla notkun í borgum og þar af leiðandi minni losun " 
+ 
+ Heavy pollution due to large car parks should get much better infrastructure and spend much more money on railway equipment on the outskirts of major cities affordable 24 hour charges with better public / local transport (subway tram and bus) so we could get less car use in cities and there resulting in reduced emissions
+                                                                                                                                                                                                                                                                                                                                 
+ [3] "Þá hugsa ég um allt talað og skortur á aðgerðum og að stórt samhengi sé að mestu leyti fjarverandi í umræðunni - hvernig kapítalismi kapítalismans er stöðugt að skapa stærri loftslagsbreytingar "                  
+ 
+ Then I think of all the talk and lack of action and that the big picture is largely absent from the debate - how capitalism capitalism is constantly creating major climate change
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ [4] "Ég sé enga ástæðu til að efast um að loftslagið sé í breytingum og ég vona að mannvirkni sé mikilvægur / aðalástæðan fyrir þessu þannig að breytingin er snúið með breyttum mannlegri hegðun sem ég held að sé mögulegt að auki vona að ég muni ekki upplifa loftslagsbreytingar af stórum eldgosum "   
+ 
+ I see no reason to doubt that the climate is changing and I hope that structure is important / the main reason for this so the change is reversed by changing human behavior which I think is possible in addition I hope I will not experience climate change of large eruptions
+                                                                                                                                                                                                                                                                                                                                                                         
+ [5] "Herbergið er í útsetningu þannig að breyta loftslagi loftslagsins líka " 
+ The room is in exposure so changing the climate too
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+ [6] "Ég held að loftslagið hafi farið í \"Wave dali\" áður og telur að söguna ætti einnig að nota og rannsakað rétt áður en að hringja í þennan mannavöldum loftslagsbreytingum en ætti að vera tilbúnar breytingar svo ég tel að hægt sé að stöðva þróunina Ef heimssamfélagið er háð ströngum ráðstöfunum. Hugsaðu reiði þarf að ná árangri sem skrímsli "         
+ 
+ I think the climate has gone into \ "Wave valleys \" before and I think the story should also be used and researched just before calling this man-made climate change but there should be artificial changes so I think it is possible to stop the development If the world community is subject to strict measures. Think anger needs to succeed as a monster
+                                                                                                                                                                                                                                                                                                                 
+ [7] "Ég held að þetta sé eitthvað sem gerist í hringrásum hér á jörðinni að þetta breytist allan tímann og þarf að gera það öll ár en nú er seisest 10-30 skemmtanir sem við höfum valmyndirnar byrjað og eyðileggur mikið magn af úrgangi í sjónum Aldt Dor Mikið óskipt veiði í sjónum Dies fljótlega ef við hættum ekki !!!!!!!!!!!! Auk þess að það er miklu miklu meira hræðilegt að við veljum og gleymast FY skammarlega manna "   
+ 
+ I think this is something that happens in cycles here on earth that this changes all the time and needs to be done every year but now is the sesest 10-30 entertainment we have started the menus and destroys a large amount of waste in the sea Aldt Dor Very undivided fishing in the sea Dies soon if we do not stop !!!!!!!!!!!! Plus, it's much much more horrible that we choose and forget FY shameful people
+                                                                                                                                                                                                                                            
+ [8] "gerðist áður í heiminum líka "     
+ 
+ happened before in the world too
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ [9] "Ég held að IFLG jarðfræði loftslagsbreytingar hafi átt sér stað nokkur þúsund sinnum síðasta árstíðir "               
+ I think the IFLG geology of climate change has occurred several thousand times in recent seasons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+[10] "Þá hugsa ég um hvað uppfinningar mínar geta lagt sitt af mörkum: * Fleiri plas-mótað steypu með sveigjanlegri formwork kerfi mun stuðla að minni miklum flutningi á steypuþætti * með einfaldari formwork kerfi, koma nokkrir leigustöðvar til og þess vegna flutt flutningslengd með leiguhúsnæði Formwork * með léttu og sveigjanlegri formwork mun ráðast á mikla veður til dæmis hraðar og ódýrari að endurreisa heimili sín með plasista steypu * með flóðið sem hægt er að nota flestar staðir og í stórum hæð, getur stór Eigedommer fljótlega verið hlíft fyrir flóðið Ókostur við flóðastiku í dag er td lág hæð og að loka er aðeins hægt að byggja á flatt yfirborð "
+
+Then I think about what my inventions can contribute: * More plastic-molded concrete with a flexible formwork system will contribute to less transfer of concrete elements * with a simpler formwork system, more rental stations will be created and therefore the transport distance will be transferred with rental housing Formwork * with light and flexible formwork will depend on severe weather for example faster and cheaper to rebuild their homes with plastic concrete * with the flood that can be used in most places and at high altitudes, large Eigedommer can soon be protected from the flood Disadvantages of flood bar today is, for example, low height and to close can only be built on a flat surface
+
+> thoughts2
+ [1] "Loftmengun Melting Sea Ice Access Flood og Storm hörmungar Global Warming "       
+ Air pollution Melting Sea Ice Access Flood and Storm disaster Global Warming       
+ [2] "Flood stormur eyðileggingu Extreme-kalt / hita / úrkoma þurrka ís bræðslu sjávar hækkar "
+ Flood storm destruction Extreme-cold / heat / rainfall drought Ice melting sea rises
+ [3] "Fleiri úrkomu stormar og smám saman sjó hækkun meira þurrka annars staðar "    
+ More precipitation storms and gradual sea rise more droughts elsewhere          
+ [4] "Hlýrri veður hærra vatnsborð meira öfgafullt veður meira innflytjenda "   
+ Warmer weather higher water levels more extreme weather more immigrants               
+ [5] "Tíðari öfgafullt veður aukið sjávarhæð aukin breytingar á ísbræðslu í hafstraumum "  
+ More frequent extreme weather increases sea level increases changes in ice melting in ocean currents    
+ [6] "hlýrri loftslag minna snjór meira rigning "        
+ warmer climate less snow more rain                                      
+ [7] "Ice bráðnar hærra vatnsborð Jörðin Fleiri vindur Wetter Climate Miler Winter "  
+ Ice melts higher water level Earth More wind Weather Climate Miler Winter         
+ [8] "Extreme Weather Melting af ís í Pol Sites Hærri haf hitastig "       
+ Extreme Weather Digestion of Ice in Pol Sites Higher ocean temperatures                    
+ [9] "Aukin hitastig meiri úrkomu og meira ofbeldi veður "    
+ Increased temperatures more precipitation and more violent weather                                 
+[10] "Flóð sterk vindur hærri hitastig ís bráðnun " 
+Flood strong winds higher temperatures ice melting                                           
+> thoughts3
+ [1] "Ég er hræddur við hvað er að gerast í framtíðinni sem ég hef efni \"félagslega þekkingu\" og hefur bara lesið að við erum svo spillt að við grafa undan okkar eigin framtíð. Skannarnir eru sendar til næstu kynslóðar á meðan ég held að þetta hafi í raun áhyggjur af Hagkerfi er hægt að flytja til venja okkar hvað varðar umhverfisvænni sem við verðum að hafa í huga að fólk kemur eftir okkur og það virðist ekki eins og við gerum "                                  
+ I'm afraid of what's going on in the future that I have subject to "social knowledge" and have just read that we are so corrupt that we undermine our own future. The scanners are passed on to the next generation while I think this really worries the Economy can be transferred to our habits in terms of environmentally friendly that we have to keep in mind that people come after us and it does not seem like we do                                                                                                                                                                                                                       
+ [2] "Ísbræðsla og náttúruhamfarir Í lok vegabréfsáritunar fyrir jörðina Við verðum að breyta lífi okkar verulega ef við verðum að breyta þessum áhyggjum ekki aðeins að við verðum að hætta við endurnýjanlega orkugjafa heldur einnig að hver og einn okkar sérstaklega í vestrænum heimi verður að draga úr neysluvettvangi okkar mörg mörg hak sem við lifum í því sem mér líkar að hringja í neytendahöll eitthvað Noregur ætti og fá tækifæri til að breyta því að við erum svo ríkur land eins og við erum
+ Ice melting and natural disasters At the end of the year for the planet We must change our lives significantly if we are to change these concerns not only that we must stop using renewable energy sources but also that each and every one of us, especially in the Western world, must reduce our consumption. many notches we live in what I like to call a consumer palace something Norway should and get a chance to change because we are as rich a country as we are "                                                                                                                                                                                         
+ [3] "Noregur er lítið land sem getur ekki gert neitt án þess að stóru löndin sem ekki eru eins og að henda peningunum út um gluggann sem hjálpar litla um ekki þá sem raunverulega menga að gera það ekki svo að þeir gerum það? "  
+ Norway is a small country that can do nothing without the big countries that are not like throwing money out the window that helps little about not those who really pollute not do it so they do it                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ [4] "Þeir hafa áhyggjur af Noregi ætti að fara fram sem gott dæmi en það mikilvægasta er að við getum notað auðlindir okkar til að hjálpa löndum sem eru miklu stærri og hafa miklu meira að segja um loftslagsbreytingar telja að breytingar verða að byrja með hverjum einstaklingi á sama hátt TIME Ég veit að losun Noregs eru lítil um allan heim og því, tækni og þekkingu sem gæti verið mikilvægast sem við getum lagt sitt af mörkum við "       
+ They are worried that Norway should set a good example, but the most important thing is that we can use our resources to help countries that are much larger and have much more say about climate change believe that change must start with each individual in the same way. TIME I know that Norway's emissions are small all over the world and therefore, technology and knowledge that could be the most important thing we can contribute to                                                                                                                                                                                                                                                 
+ [5] "Loftslagsbreytingar hafa verið í kringum alla árin sem við vitum ekki er hvort þessar breytingar sem eiga sér stað eru nú svipaðar fyrri sveiflum "     
+ Climate change has been around all the years we do not know is whether these changes that are taking place are now similar to previous fluctuations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ [6] "Að við erum að fara að eyðileggja eigin auðlindir jarðarinnar - vegna þess að ofnotkun okkar á Vesturlöndum hefur áhrif á umhverfið neikvætt og að þessar breytingar í fyrsta lagi hafa áhrif á fátækustu löndin og fólkið sem býr þar. "   
+ That we are going to destroy the earth's own resources - because our overuse in the West is having a negative impact on the environment and that these changes are, in the first place, affecting the poorest countries and the people who live there.                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+ [7] "Það er nú vel skjalfest að við séum að upplifa og fara að upplifa mannavöldum loftslagsbreytingum í okkar tíma, því miður virðist sem handfylli af háværum og tiltölulega óupplýstu efasemdamenn hafa tekist að skapa til kynna að þetta sé ekki raunin sem olíuframleiðandi ætti Noregur Til að kveða á um að gera það sem við getum til að koma í veg fyrir að þetta sé stjórnað enn erum við háð jarðefnaeldsneyti (og Noregur hefur olíuhagkerfi) því að það ætti að auðvelda að vera í stórum stíl kolefnisfanga og geymslu og Noreg hefur tækifæri til að gegna mikilvægu hlutverki Í þessu erum við einnig að fá aðgang að endurnýjanlegri orku að við erum í einstökum góðu ástandi sem þjóð "
+ 
+ It is now well documented that we are experiencing and going to experience man-made climate change in our time, unfortunately it seems that a handful of loud and relatively uninformed skeptics have managed to create the impression that this is not the case that an oil producer should Norway To provide to do what we can to prevent this from happening, we are still dependent on fossil fuels (and Norway has an oil economy) because it should be easier to have large-scale carbon capture and storage, and Norway has the opportunity to play an important role. role In this we are also gaining access to renewable energy that we are in exceptionally good condition as a nation
+ [8] "Noregur mun fara fram sem gott dæmi um loftslagsráðstafanir en við getum ekki bjargað heiminum einum "    
+ 
+ Norway will set a good example of climate change, but we cannot save the world alone                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ [9] "Td TRUR Þeir eru margir fjölmiðlar búnar hysteríu og auk þess eru þau pólitískt ákvörðuð að þeir skella flestir einbeita sér að umhverfinu sem þeir búa til vinnustaða og grunnatriði til að krefjast gjalda "  
+ For example, TRUR They are many hysterical media and in addition they are politically determined that they slam most focus on the environment in which they create workplaces and basics to demand fees                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+[10] "Embættismenn til að vinna sér inn flestum þátttöku / vera hluti af fagfólki sem vilja græða á meintum loftslagsbreytingum. Rannsóknarstarfsmenn sem telja að þeir vita að allir margir sem eru hræddir um að afla sér ekki nógu vel ef margir stofnanir voru að setja upp eigingirni loftslagsbreytinga. Opinberar sjóðir um allan heim samfélagið "   
+
+Officials to earn the most participation / be part of professionals who want to profit from alleged climate change. Researchers who think they know that all the many who are afraid of not earning well enough if many organizations were setting up selfish climate change. Public funds around the world community
+
+                                                                                                                                                                                                                                                                                                                                               
+> thoughts4
+ [1] "Man-Made - Alvarlegt - Við sem neytendur verða að gera eitthvað - stjórnmálamenn verða að gera eitthvað - vísindamenn verða að halda áfram að rannsaka "     
+ 
+ Man-Made - Serious - We as consumers have to do something - Politicians have to do something - Scientists have to keep researching
+                                                                                                                                                        
+ [2] "Allir verða að gera þeirra til að reyna að draga úr / bremsa / koma í veg fyrir "    
+ 
+ Everyone must do their part to try to reduce / brake / prevent
+                                                                                                                                                                                                                                
+ [3] "Þetta getur ómögulegt að fara vel. Fjöldi fólks á þessum heimi verður að verulega niður fyrir það mun vera sjálfbært eitthvað sem mun örugglega gerast í formi náttúruhamfara og faraldur en annars er ég jákvæð "      
+ This can be impossible to do well. A lot of people in this world will be significantly down before it will be sustainable something that will definitely happen in the form of natural disasters and epidemics but otherwise I am positive                                                                                            
+ [4] "Íbúafjöldi með loftslagsbreytingum verður óreiðu pólitísk sundurliðun Rightstreme tekur til að koma í veg fyrir að flóttamenn komist inn í þennan hluta heimsins sem \"sama\" mun gerast í erfiðum löndum þar sem þeir munu safna fólki til að vara þetta er versta atburðarásin. Hluti af þessum heimi í heiminum "
+ Climate change will become a chaotic political breakdown Rightstreme is taking to prevent refugees from entering this part of the world that \ "the same \" will happen in difficult countries where they will gather people to warn this is the worst case scenario. Part of this world in the world
+ 
+ [5] "Hversu alvarlegt er það og hvað á að gera með það - allt til að draga úr losun eða innleiða gegnvikum - eða bæði? " 
+ How serious is it and what to do with it - all to reduce emissions or implement aberrations - or both?                                                                                                                                                                                                
+ [6] "Er allt tilbúið? Ég held að það sé blanda af náttúrunni og mannavöldum en að minnsta kosti eitthvað er tilbúið og við verðum að nota forystuna var meginreglan hitastigið á leiðinni upp fyrir iðnaðarbyltinguna "                       
+ Is everything ready? I think it's a mix of nature and man, but at least something is ready and we have to use the leadership, the principle was the temperature on the way up before the industrial revolution                                                                           
+ [7] "Það er óljóst hvort það sé að gerast eða ekki en það skaðar ekki til að gera neitt um hvernig við lifum á engu að síður til að draga úr neyslu hjálpar á mörgum stigum "        
+ It is unclear whether this is happening or not but it does not hurt to do anything about how we live anyway to reduce consumption help on many levels                                                                                                                                    
+ [8] "Hvað get ég gert fyrir og hjálpað til við að koma í veg fyrir eða draga úr mest "  
+ What can I do to help prevent or reduce the most?
+                                                                                                                                                                                                                                  
+ [9] "Að við verðum að gera eitthvað um það hratt en að það vilji ekki vera merkt á ævi minni en aftur að það telur að gera eitthvað "              
+ That we have to do something about it fast but that it does not want to be marked in my life but again that it considers doing something                                                                                                                                                                      
+[10] "Loftslagið hefur alltaf breyst og það breytir því ennþá svolítið hraðar en fyrir hluta af ástæðunni fyrir því að það er tilbúið "  
+The climate has always changed and it still changes a little faster than for part of the reason why it is ready 
+
+
+
+> summary(univdummy)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.0000  1.0000  0.5287  1.0000  1.0000 
+> table(meta$edu3, univdummy)
+   univdummy
+      0   1
+  0  63   0
+  1 197   0
+  2 626   0
+  3   0 994
+> meta$univdummy <- univdummy
+
