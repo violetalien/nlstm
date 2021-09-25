@@ -23,7 +23,7 @@ Requirements: RScript version>= 4.1.0
 ### Of the original results
 Run from the root of this repo
 
-You need to have the R script and the data in the same directory. Than run:
+You need to have the R script and the data in the same directory. Then run:
 
 ```
 Rscript original-replicated/ncp-stm.R 
