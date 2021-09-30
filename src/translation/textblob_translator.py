@@ -1,13 +1,13 @@
-from textblob import TextBlob
-from textblob import exceptions
 import pandas as pd
+from textblob import TextBlob, exceptions
+
 
 class textblob_translator():
 
     def __init__(self, lang='en'):
         self.language = lang
 
-    def read_csv(self, data='data.csv', sep=";", enc = "windows-1252"):
+    def read_csv(self, data='data.csv', sep=";", enc="windows-1252"):
         self.text = pd.read_csv(data, sep=sep, encoding=enc)
 
     def translate(self, column='openanswer'):
@@ -22,9 +22,4 @@ class textblob_translator():
         self.text['translation'] = translated
 
     def save(self, filename='translated_data_textblob.csv', sep=';'):
-        self.text.to_csv(filename, sep = sep)
-
-
-
-
-
+        self.text.to_csv(filename, sep=sep)
