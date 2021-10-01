@@ -18,4 +18,16 @@ Topic 4 Top Words:
  	 FREX: melt, ice, sea, rise, rain, pole, warmer, wind, winter, polar 
  	 Lift: arctic, ascend, cold, die, dri, glacier, layer, melt, meltdown, mild 
  	 Score: melt, ice, flood, rain, pole, sea, wind, rise, winter, polar 
-
+ 	 
+ 	 
+ 	
+ 	
+ 
+Topic 1 Top Words:
+ 	 FREX: extrem, weather, temperatur, contamin, increas, air, larg, storm, warm, unstabl 
+Topic 2 Top Words:
+ 	 FREX: think, can, time, littl, year, happen, take, alway, good, serious 
+Topic 3 Top Words:
+ 	 FREX: futur, natur, energi, generat, life, concern, disast, threat, pollut, food 
+Topic 4 Top Words:
+ 	 FREX: melt, ice, sea, rise, rain, pole, warmer, wind, winter, polar 
