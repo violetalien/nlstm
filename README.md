@@ -25,7 +25,7 @@ To be found in `data/original/`
 
 ### STM original replication
 
-To be found in `src/original/`
+The script is in `src/R/original/`
 
 ### English translation of the data
 
